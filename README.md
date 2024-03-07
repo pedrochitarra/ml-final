@@ -1,5 +1,19 @@
+# PUC Minas
+## Pós-Graduação em Ciência de Dados e Big Data
+## Machine Learning
+## Professor: Gabriel Oliveira Assunção
+### Trabalho Prático - relatório da base de dados
+
+#### Alunos:
+- Guilherme de Gouvêa Almada
+- Pedro Henrique Batista Chitarra
+
+---
+
 # Stellar Classification Dataset
 https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17/
+
+Arquivo MD: https://github.com/pedrochitarra/ml-final
 
 ## Contexto
 Na astronomia, a classificação estelar é a classificação de estrelas com base em suas características espectrais. O esquema de classificação de galáxias, quasares e estrelas é um dos mais fundamentais na astronomia. A catalogação precoce de estrelas e sua distribuição no céu levou à compreensão de que elas compõem nossa própria galáxia e, seguindo a distinção de que Andrômeda era uma galáxia separada da nossa, inúmeras galáxias começaram a ser pesquisadas à medida que telescópios mais poderosos eram construídos. Este conjunto de dados tem como objetivo classificar estrelas, galáxias e quasares com base em suas características espectrais.
